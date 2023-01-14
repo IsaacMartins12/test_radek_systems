@@ -1,0 +1,5 @@
+PROBLEM 1 - bq , rel ABC, di, x
+
+PROBLEM 2 - bq , rel XYZ, di, re f, re l, x
+
+PROBLEM 3 - bq , rel ABC, di, key 10, re n, re n, x
