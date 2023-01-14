@@ -1,6 +1,6 @@
 # test_radek_systems
 
 <ol>  
- <li>Oi</li>
- <li>Teste</li>
+ <li>Programas do teste radek</li>
+ <li>Escritos em C e c++</li>
 <ol>
