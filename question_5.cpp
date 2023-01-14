@@ -25,14 +25,12 @@ string ConcatRemove(string s, string t, int k) {
     
     // Avaliador de condicoes
     
-    if (t.length() - s_auxiliar.length() == (k-interacoes)) flag_ok = 1;
+    if (valor_restante == (k-interacoes)) flag_ok = 1;
 
     else if (s==t and k >= 2 * s.length()) flag_ok=1;
     
-    else if (((interacoes%2!=0 and k%2!=0) or (interacoes%2==0 and k%2==0)) and (valor_restante+s_auxiliar.length()) == k) {
-           flag_ok=1;
-        }
-        
+    else if (((interacoes%2!=0 and k%2!=0) or (interacoes%2==0 and k%2==0)) and (valor_restante+s_auxiliar.length()) == k) flag_ok=1;
+    
     else if (s_auxiliar == t_auxiliar and (k-(valor_restante+interacoes))%2==0 and valor_restante+interacoes < k) flag_ok=1;
     
   
@@ -64,7 +62,7 @@ int main()
     // tirando tudo e acrescentando
     assert(ConcatRemove("xrt","abcxrtterra",14)=="yes") ;
     
-    // Só escreve isso se todos os testes passaram
+    // Só escreve a mensagem se todos os testes passaram, em caso contrário no terminal mostrará o teste que foi nao condizente com o esperado.
     
     cout << "Passaram todos os testes !" ;
     
