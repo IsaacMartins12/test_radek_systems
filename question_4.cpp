@@ -3,9 +3,9 @@
 
 using namespace std;
  
-// Essa questao pelo métodos de inserir e colocar somente no final, lembra uma estrutura de dados chamada pilha (LIFO) , e eu segui essa linha de raciocínio.
+// This question about the methods of inserting and placing only at the end, reminds me of a data structure called stack (LIFO), and I followed this line of reasoning.
 
-// Minha função faz somente "pops" na pilha, na parte de acrescentar eu faço alguns cálculos para confirmar se retorno "yes" ou "no" .
+// My function only makes "pops" on the stack, in the add part I do some calculations to confirm whether I return "yes" or "no".
 
 
 string ConcatRemove(string s, string t, int k) {
@@ -13,29 +13,29 @@ string ConcatRemove(string s, string t, int k) {
     string t_auxiliar, s_auxiliar; 
     int flag_ok=0, interacoes=0;
   
-    t_auxiliar = t; // copia da string t
-    s_auxiliar = s ; // copia de string s
+    t_auxiliar = t; // copy the string t
+    s_auxiliar = s ; // copy the string s
     
-    while(s_auxiliar.find(t_auxiliar)){   // Eu provo que existe substring
-        t_auxiliar.pop_back();  // Retiro a última letra da string
+    while(s_auxiliar.find(t_auxiliar)){   // I prove that substring exists
+        t_auxiliar.pop_back();  // Remove the last letter of the string
     }
     
-    while(s_auxiliar!=t_auxiliar){  // Eu vejo o numero de alteracoes feitas
+    while(s_auxiliar!=t_auxiliar){  
         s_auxiliar.pop_back();
-        interacoes++; // Conto o número interações de remoção
+        interacoes++; // I see the number of "pops" made
     }
     
-    int valor_restante = t.length() - s_auxiliar.length() ; // Guarda o valor das tentativas restantes
+    int valor_restante = t.length() - s_auxiliar.length() ; // Stores the value of the remaining attempts
     
-    // Avaliador de condicoes
+    // Condition evaluator
     
-    if (valor_restante == (k-interacoes)) flag_ok = 1; // Se for o caso de o número de inserções depois das remoções for igual ao valor restante
+    if (valor_restante == (k-interacoes)) flag_ok = 1; // If the number of insertions after removals is equal to the remaining value
 
-    else if (s==t and k >= 2 * s.length()) flag_ok=1; // No caso das palavras serem iguais, tratanto a ideia de remoções no vazio.
+    else if (s==t and k >= 2 * s.length()) flag_ok=1; // In case the words are the same, I treat the idea of removals in the void.
     
-    else if ((interacoes%2 == k%2) and (valor_restante+s_auxiliar.length()) == k) flag_ok=1; // Questao de remocao e adicao em sequencia várias vezes ou uma vez
+    else if ((interacoes%2 == k%2) and (valor_restante+s_auxiliar.length()) == k) flag_ok=1; // Removing and adding question in sequence multiple times or once
         
-    else if (s_auxiliar == t_auxiliar and (k-(valor_restante+interacoes))%2==0 and valor_restante+interacoes < k) flag_ok=1; // Essa função é um caso especial da de cima
+    else if (s_auxiliar == t_auxiliar and (k-(valor_restante+interacoes))%2==0 and valor_restante+interacoes < k) flag_ok=1; // This function is a special case of the one above.
     
     if (flag_ok) return "yes";
         
@@ -52,7 +52,7 @@ int main()
     cin >> t;
     cin >> k;
  
-    // Daqui pra baixo ocorre a tratativa das restrições impostas na questao
+    // From here on down, the restrictions imposed on the issue are discussed.
  
     if (s.length() < 1 or s.length() > 100) restricoes++;
     if (t.length() < 1 or t.length() > 100) restricoes++;
