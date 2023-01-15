@@ -4,9 +4,7 @@ Programming Skills Challenge da RADEK SYSTEMS
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+Todas os programas feitos nesse repositório podem ser executados nos simuladores apresentados no tópico seguinte. Basta apenas voce copiar os textos os códigos e colar na área de desenvolvimento dos simuladores. 
 
 ## 🛠️ Construído com
 
@@ -14,37 +12,32 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 * [Programiz - C Online Compiler](https://www.programiz.com/c-programming/online-compiler/) - Simulador de C
 * [Programiz - C++ Online Compiler](https://www.programiz.com/cpp-programming/online-compiler/) - Simulador de C++
 
-## 📦 Implantação
-
-Todas os programas feitos nesse repositório podem ser executados nos simuladores apresentados no tópico seguinte.
-
 ## 📋 Questoes
 
 <ul> 
  <li> 
-     Questao 3
+     Questao 3 - Basta copiar o código do arquivo "question_3.c" e acessar o compilador online C, mostrado no tópico anterior, colar o código e inserir as entradas desejadas.
  </li>
    
  <li> 
-     Questao 4
+     Questao 4 - Basta copiar o código do arquivo "question_4.ccp" e acessar o Editor Online C++, mostrado no tópico anterior, colar o código e inserir as entradas desejadas.
  </li>
    
  <li> 
-     Questao 5
+     Questao 5 - Basta copiar o código do arquivo "question_5.ccp" e acessar o Editor Online C++, mostrado no tópico anterior, colar o código e executar o programa
+  (Nesse não é necessário inserir entradas).
  </li>
    
  <li> 
-     Questao 6
+     Questao 6 -  Basta copiar o código do arquivo "question_6.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
+  (Nesse não é necessário inserir entradas).
  </li>
    
  <li> 
-     Questao 8
+     Questao 8 - Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
+  (Nesse não é necessário inserir entradas).
  </li>
-   
- <li> 
-    Questao 9
- </li>
-   
+  
  <li> 
     Questao 10
  </li>
