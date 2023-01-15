@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cassert>
+#include <cassert> // test library
 #include <string>
 
 using namespace std;
@@ -9,21 +9,21 @@ string ConcatRemove(string s, string t, int k) {
     string t_auxiliar, s_auxiliar; 
     int flag_ok=0, interacoes=0;
   
-    t_auxiliar = t; // copia de t
-    s_auxiliar = s ; // copia de c
+    t_auxiliar = t; // copy of t
+    s_auxiliar = s ; // copy of s
     
-    while(s_auxiliar.find(t_auxiliar)){   // Eu provo que existe substring
+    while(s_auxiliar.find(t_auxiliar)){   // I prove that substring exists
         t_auxiliar.pop_back();
     }
     
-    while(s_auxiliar!=t_auxiliar){  // Eu vejo o numero de alteracoes feitas
+    while(s_auxiliar!=t_auxiliar){  // I see the number of changes made
         s_auxiliar.pop_back();
         interacoes++;
     }
     
     int valor_restante = t.length() - s_auxiliar.length() ;
     
-    // Avaliador de condicoes
+    // evaluation of conditions
     
     if (valor_restante == (k-interacoes)) flag_ok = 1;
 
@@ -45,26 +45,26 @@ int main()
     string s, t, resposta;
     int k,restricoes=0,i;
 
-    // teste com palavras iguais e tentativas de sobra
+    // test with equal words and extra attempts
     assert(ConcatRemove("bla","bla",18)=="yes") ; 
-    // teste com tentativas insuficientes
+    // test with insufficient attempts
     assert(ConcatRemove("blablablabla","blablabcde",6)=="no") ;
-    // teste do problema
+    // question test
     assert(ConcatRemove("bla","bla",7)=="yes") ;
-    // teste do problema
+    // question test
     assert(ConcatRemove("blablablabla","blablabcde",8)=="yes") ;
-    // teste tirando todas as letras e acrescentando
+    // test taking all the letters and adding
     assert(ConcatRemove("isaacxx","isaac",12)=="yes") ;
-    // teste só com retirada
+    // test just removing
     assert(ConcatRemove("passatempo","passa",5)=="yes") ;
-    // teste só colocando
+    // test just putting
     assert(ConcatRemove("terra","terraform",4)=="yes") ;
-    // tirando tudo e acrescentando
+    // removing everything and adding
     assert(ConcatRemove("xrt","abcxrtterra",14)=="yes") ;
     
-    // Só escreve a mensagem se todos os testes passaram, em caso contrário no terminal mostrará o teste que foi nao condizente com o esperado.
+    // It only writes the message if all the tests passed, otherwise the terminal will show the test that was not consistent with what was expected.
     
-    cout << "Passaram todos os testes !" ;
+    cout << "All tests passed!" ;
     
   
 }
