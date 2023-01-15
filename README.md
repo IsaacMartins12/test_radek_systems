@@ -1,16 +1,16 @@
 # Programming Skills Challenge by RADEK SYSTEMS
 
-## 🚀 Começando
+## 🚀 Starting
 
 All programs made in this repository can be executed in the simulators presented in the next topic. Instructions for use are given below.
 
-## 🛠️ Construído com
+## 🛠️ Built with
 
 * [SQL OnLine IDE](https://sqliteonline.com/) - Online SQL Editor
 * [Programiz - C Online Compiler](https://www.programiz.com/c-programming/online-compiler/) - Online C Editor
 * [Programiz - C++ Online Compiler](https://www.programiz.com/cpp-programming/online-compiler/) - Online C++ Editor
 
-## 📋 Questoes
+## 📋 Questions
 
 <ul> 
  <li> 
@@ -44,6 +44,6 @@ All programs made in this repository can be executed in the simulators presented
 
 </ul>
 
-## 📄 Licença
+## 📄 License
 
 This project is under the MIT license - see the archive [LICENSE.md](https://github.com/usuario/projeto/licenca) for details.
