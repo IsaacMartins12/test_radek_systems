@@ -18,39 +18,39 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 Todas os programas feitos nesse repositório podem ser executados nos simuladores apresentados no tópico seguinte.
 
-### 📋 Questoes
+## 📋 Questoes
 
 <ul> 
  <li> 
-    # Questao 3
+     Questao 3
  </li>
    
  <li> 
-    # Questao 4
+     Questao 4
  </li>
    
  <li> 
-    # Questao 5
+     Questao 5
  </li>
    
  <li> 
-    # Questao 6
+     Questao 6
  </li>
    
  <li> 
-    # Questao 8
+     Questao 8
  </li>
    
  <li> 
-    # Questao 9
+    Questao 9
  </li>
    
  <li> 
-    # Questao 10
+    Questao 10
  </li>
    
  <li> 
-    # Questao 11
+     Questao 11
  </li>
 
 </ul>
