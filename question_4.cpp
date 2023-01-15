@@ -66,7 +66,7 @@ int main()
         if (isupper(t[i])) restricoes++;
     }
    
-    if (restricoes){  cout << "Erro no input";
+    if (restricoes){  cout << "Input error !";
     }
     else cout << ConcatRemove(s, t, k);
   
