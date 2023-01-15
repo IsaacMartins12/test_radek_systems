@@ -14,7 +14,7 @@ Todas os programas feitos nesse repositório podem ser executados nos simuladore
 
 <ul> 
  <li> 
-     <b>Questao 3</b> - Basta copiar o código do arquivo "question_3.c" e acessar o compilador online C, mostrado no tópico anterior, colar o código e inserir as entradas desejadas.
+     <b>Questao 3</b> - <i>Basta copiar o código do arquivo "question_3.c" e acessar o compilador online C, mostrado no tópico anterior, colar o código e inserir as entradas desejadas.</i>
  </li>
    
  <li> 
