@@ -62,7 +62,7 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [SQL OnLine IDE]([https://sqliteonline.com/]) - Simulador de SQL
+* [SQL OnLine IDE](https://sqliteonline.com/) - Simulador de SQL
 * [Programiz - C Online Compiler]([https://www.programiz.com/c-programming/online-compiler/]) - Simulador de C
 * [Programiz - C++ Online Compiler]([https://www.programiz.com/cpp-programming/online-compiler/]) - Simulador de C++
 
