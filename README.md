@@ -27,23 +27,19 @@ Todas os programas feitos nesse repositório podem ser executados nos simuladore
  </li>
    
  <li> 
-   <b> Questao 6 </b> - <i> Basta copiar o código do arquivo "question_6.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
-  (Nesse não é necessário inserir entradas). </i>
+   <b> Questao 6 </b> - <i> Basta copiar o código do arquivo "question_6.sql" e acessar o Editor Online SQL, mostrado no tópico anterior, colar o código e executar a consulta  (Nesse não é necessário inserir entradas). </i>
  </li>
    
  <li> 
-   <b> Questao 8 </b> - <i> Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
-  (Nesse não é necessário inserir entradas). </i>
+   <b> Questao 8 </b> - <i> Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQL, mostrado no tópico anterior, colar o código e executar a consulta  (Nesse não é necessário inserir entradas). </i>
  </li>
   
  <li> 
-    <b> Questao 10 </b> <i> Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
-  (Nesse não é necessário inserir entradas). </i>
+    <b> Questao 10 </b> <i> Basta copiar o código do arquivo "question_10.c" e acessar o Editor Online C, mostrado no tópico anterior, colar o código, executar e inserir as entradas desejadas. </i>
  </li>
    
  <li>  
-    <b> Questao 11 </b> <i> Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
-  (Nesse não é necessário inserir entradas). </i>
+    <b> Questao 11 </b> <i> Basta copiar o código do arquivo "question_11.cpp" e acessar o Editor Online C, mostrado no tópico anterior, colar o código, executar e inserir as entradas desejadas. </i>
  </li>
 
 </ul>
