@@ -14,11 +14,11 @@ Todas os programas feitos nesse repositório podem ser executados nos simuladore
 
 <ul> 
  <li> 
-     Questao 3 - Basta copiar o código do arquivo "question_3.c" e acessar o compilador online C, mostrado no tópico anterior, colar o código e inserir as entradas desejadas.
+     <b>Questao 3</b> - Basta copiar o código do arquivo "question_3.c" e acessar o compilador online C, mostrado no tópico anterior, colar o código e inserir as entradas desejadas.
  </li>
    
  <li> 
-     Questao 4 - Basta copiar o código do arquivo "question_4.ccp" e acessar o Editor Online C++, mostrado no tópico anterior, colar o código e inserir as entradas desejadas.
+     <b>Questao 4</b> - Basta copiar o código do arquivo "question_4.ccp" e acessar o Editor Online C++, mostrado no tópico anterior, colar o código e inserir as entradas desejadas.
  </li>
    
  <li> 
