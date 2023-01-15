@@ -56,25 +56,16 @@ Dar exemplos
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Todas os programas feitos nesse repositório podem ser executados nos simuladores apresentados no tópico seguinte.
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [SQL OnLine IDE](https://sqliteonline.com/) - Simulador de SQL
-* [Programiz - C Online Compiler]([https://www.programiz.com/c-programming/online-compiler/]) - Simulador de C
-* [Programiz - C++ Online Compiler]([https://www.programiz.com/cpp-programming/online-compiler/]) - Simulador de C++
+* [Programiz - C Online Compiler](https://www.programiz.com/c-programming/online-compiler/) - Simulador de C
+* [Programiz - C++ Online Compiler](https://www.programiz.com/cpp-programming/online-compiler/) - Simulador de C++
 
 ## 📄 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
 ## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
-
