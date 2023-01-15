@@ -27,11 +27,11 @@ Todas os programas feitos nesse repositório podem ser executados nos simuladore
  </li>
    
  <li> 
-   <b> Questao 6 </b> - <i> Basta copiar o código do arquivo "question_6.sql" e acessar o Editor Online SQL, mostrado no tópico anterior, colar o código e executar a consulta  (Nesse não é necessário inserir entradas). </i>
+   <b> Questao 6 </b> - <i> Basta copiar o código do arquivo "question_6.sql" e acessar o Editor Online SQL, mostrado no tópico anterior, colar o código e executar a consulta. </i>
  </li>
    
  <li> 
-   <b> Questao 8 </b> - <i> Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQL, mostrado no tópico anterior, colar o código e executar a consulta  (Nesse não é necessário inserir entradas). </i>
+   <b> Questao 8 </b> - <i> Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQL, mostrado no tópico anterior, colar o código e executar a consulta. </i>
  </li>
   
  <li> 
