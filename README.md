@@ -18,7 +18,7 @@ All programs made in this repository can be executed in the simulators presented
  </li>
    
  <li> 
-     <b>Questao 4</b> - <i>Just copy the code from the "question_4.ccp" file and access the Online C++ Editor, shown in the previous topic, paste the code, execute and insert the desired entries.</i >
+     <b>Question 4</b> - <i>Just copy the code from the "question_4.ccp" file and access the Online C++ Editor, shown in the previous topic, paste the code, execute and insert the desired entries.</i >
  </li>
    
  <li> 
