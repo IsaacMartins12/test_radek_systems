@@ -62,9 +62,9 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [SQL OnLine IDE]([http://www.dropwizard.io/1.0.2/docs/](https://sqliteonline.com/) - Simulador de SQL
-* [Programiz - C Online Compiler](https://www.programiz.com/c-programming/online-compiler/) - Simulador de C
-* [Programiz - C++ Online Compiler](https://www.programiz.com/cpp-programming/online-compiler/) - Simulador de C++
+* [SQL OnLine IDE]([https://sqliteonline.com/]) - Simulador de SQL
+* [Programiz - C Online Compiler]([https://www.programiz.com/c-programming/online-compiler/]) - Simulador de C
+* [Programiz - C++ Online Compiler]([https://www.programiz.com/cpp-programming/online-compiler/]) - Simulador de C++
 
 ## 📄 Licença
 
