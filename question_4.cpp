@@ -51,7 +51,9 @@ int main()
     cin >> s;
     cin >> t;
     cin >> k;
-   
+ 
+    // Daqui pra baixo ocorre a tratativa das restrições impostas na questao
+ 
     if (s.length() < 1 or s.length() > 100) restricoes++;
     if (t.length() < 1 or t.length() > 100) restricoes++;
     if (k < 1 or k > 100) restricoes++;
