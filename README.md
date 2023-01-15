@@ -1,6 +1,4 @@
-# Título do projeto
-
-Programming Skills Challenge da RADEK SYSTEMS
+# Programming Skills Challenge da RADEK SYSTEMS
 
 ## 🚀 Começando
 
