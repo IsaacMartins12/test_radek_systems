@@ -31,7 +31,7 @@ All programs made in this repository can be executed in the simulators presented
  </li>
    
  <li> 
-  <b> Question 8 </b> - <i> Just copy the code from the <a href= https://github.com/IsaacMartins12/test_radek_systems/blob/main/question_8.cpp > question_8.cpp </a> file and access the Online SQL Editor, shown in the previous topic, paste the code and execute the query. </i>
+  <b> Question 8 </b> - <i> Just copy the code from the <a href= https://github.com/IsaacMartins12/test_radek_systems/blob/main/question_8.sql > question_8.sql </a> file and access the Online SQL Editor, shown in the previous topic, paste the code and execute the query. </i>
  </li>
   
  <li> 
