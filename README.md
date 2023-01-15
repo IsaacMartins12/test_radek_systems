@@ -18,28 +18,28 @@ All programs made in this repository can be executed in the simulators presented
  </li>
    
  <li> 
-     <b>Question 4</b> - <i>Just copy the code from the "question_4.ccp" file and access the Online C++ Editor, shown in the previous topic, paste the code, execute and insert the desired entries.</i >
+     <b>Question 4</b> - <i>Just copy the code from the <a href= https://github.com/IsaacMartins12/test_radek_systems/blob/main/question_4.cpp > question_4.cpp </a> file and access the Online C++ Editor, shown in the previous topic, paste the code, execute and insert the desired entries.</i >
  </li>
    
  <li> 
-   <b> Question 5 </b>- <i>Just copy the code from the file "question_5.ccp" and access the Online C++ Editor, shown in the previous topic, paste the code and run the program
+   <b> Question 5 </b>- <i>Just copy the code from the file <a href= https://github.com/IsaacMartins12/test_radek_systems/blob/main/question_5.cpp > question_5.cpp </a> and access the Online C++ Editor, shown in the previous topic, paste the code and run the program
   (There is no need to enter entries here).</i>
  </li>
    
  <li> 
-  <b> Question 6 </b> - <i> Just copy the code from the "question_6.sql" file and access the Online SQL Editor, shown in the previous topic, paste the code and execute the query. </i>
+  <b> Question 6 </b> - <i> Just copy the code from the <a href= https://github.com/IsaacMartins12/test_radek_systems/blob/main/question_6.sql > question_6.sql </a> file and access the Online SQL Editor, shown in the previous topic, paste the code and execute the query. </i>
  </li>
    
  <li> 
-  <b> Question 8 </b> - <i> Just copy the code from the "question_8.sql" file and access the Online SQL Editor, shown in the previous topic, paste the code and execute the query. </i>
+  <b> Question 8 </b> - <i> Just copy the code from the <a href= https://github.com/IsaacMartins12/test_radek_systems/blob/main/question_8.cpp > question_8.cpp </a> file and access the Online SQL Editor, shown in the previous topic, paste the code and execute the query. </i>
  </li>
   
  <li> 
-   <b>Question 10 </b> - <i> Just copy the code from the file "question_10.c" and access the Online Editor C, shown in the previous topic, paste the code, execute and insert the desired entries. </i>
+   <b>Question 10 </b> - <i> Just copy the code from the file <a href= https://github.com/IsaacMartins12/test_radek_systems/blob/main/question_10.c > question_10.c </a> and access the Online Editor C, shown in the previous topic, paste the code, execute and insert the desired entries. </i>
  </li>
    
  <li>  
-   <b>Question 11 </b> - <i> Just copy the code from the file "question_11.cpp" and access the Online C++ Editor, shown in the previous topic, paste the code, execute and insert the desired entries. </i>
+   <b>Question 11 </b> - <i> Just copy the code from the file <a href= https://github.com/IsaacMartins12/test_radek_systems/blob/main/question_11.cpp > question_11.cpp </a> and access the Online C++ Editor, shown in the previous topic, paste the code, execute and insert the desired entries. </i>
  </li>
 
 </ul>
