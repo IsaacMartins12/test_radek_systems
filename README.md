@@ -2,7 +2,7 @@
 
 ## 🚀 Começando
 
-Todas os programas feitos nesse repositório podem ser executados nos simuladores apresentados no tópico seguinte. Basta apenas voce copiar os textos os códigos e colar na área de desenvolvimento dos simuladores. 
+Todas os programas feitos nesse repositório podem ser executados nos simuladores apresentados no tópico seguinte. As instruções de uso são dadas mais à frente.
 
 ## 🛠️ Construído com
 
