@@ -6,9 +6,9 @@ Todas os programas feitos nesse repositório podem ser executados nos simuladore
 
 ## 🛠️ Construído com
 
-* [SQL OnLine IDE](https://sqliteonline.com/) - Simulador de SQL
-* [Programiz - C Online Compiler](https://www.programiz.com/c-programming/online-compiler/) - Simulador de C
-* [Programiz - C++ Online Compiler](https://www.programiz.com/cpp-programming/online-compiler/) - Simulador de C++
+* [SQL OnLine IDE](https://sqliteonline.com/) - Editor de SQL Online
+* [Programiz - C Online Compiler](https://www.programiz.com/c-programming/online-compiler/) - Editor de C Online
+* [Programiz - C++ Online Compiler](https://www.programiz.com/cpp-programming/online-compiler/) - Editor de C++ Online
 
 ## 📋 Questoes
 
