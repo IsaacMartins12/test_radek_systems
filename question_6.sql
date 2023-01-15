@@ -48,7 +48,7 @@ With faixa_1 AS
            from Notes,Students WHERE ((value<=max_value AND value>=min_value) AND (grade<8)) ORDER BY grade DESC,value ASC
     )
     
- -- Une as subconsultas e mostra o resultadosNotes
+ -- Une as subconsultas e mostra o resultado
  
     SELECT * FROM faixa_1
     UNION ALL
