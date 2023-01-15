@@ -12,13 +12,13 @@ int main()
     
     tamanho_da_palavra = palavra.length(); 
     
-    // o meu método de pensamento pra nao usar variavel auxilar foi a de jogar pra depois da palavra original, a palavra de forma invertida
-    // Se eu pegar a string "pesado", eu transformo ela em "pesadoodasep" com esse for abaixo.
+    // my thought method for not using an auxiliary variable was to put it after the original word, the word inverted
+    // If I take a "pesado" string, I turn it into "pesadodasep" with the one below.
    
     for(i=tamanho_da_palavra-2;i>=0;i--){
         palavra += palavra[i];
     }
-    // E aqui nessa linha, eu só pego a substring que me interessa, que é a que fica depois da palavra original.
+    // And here in this line, I just get the substring that interests me, which is the one after the original word.
     palavra = palavra.substr(tamanho_da_palavra-1,palavra.length());
     
     cout << palavra << endl;
