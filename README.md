@@ -14,34 +14,34 @@ Todas os programas feitos nesse repositório podem ser executados nos simuladore
 
 <ul> 
  <li> 
-     <b>Questao 3</b> - <i>Basta copiar o código do arquivo "question_3.c" e acessar o compilador online C, mostrado no tópico anterior, colar o código e inserir as entradas desejadas.</i>
+     <b>Questao 3</b> - <i>Basta copiar o código do arquivo "question_3.c" e acessar o compilador online C, mostrado no tópico anterior, colar o código, executar e inserir as entradas desejadas.</i>
  </li>
    
  <li> 
-     <b>Questao 4</b> - Basta copiar o código do arquivo "question_4.ccp" e acessar o Editor Online C++, mostrado no tópico anterior, colar o código e inserir as entradas desejadas.
+     <b>Questao 4</b> - <i>Basta copiar o código do arquivo "question_4.ccp" e acessar o Editor Online C++, mostrado no tópico anterior, colar o código, executar e inserir as entradas desejadas.</i>
  </li>
    
  <li> 
-     Questao 5 - Basta copiar o código do arquivo "question_5.ccp" e acessar o Editor Online C++, mostrado no tópico anterior, colar o código e executar o programa
+    <b> Questao 5 </b>- <i>Basta copiar o código do arquivo "question_5.ccp" e acessar o Editor Online C++, mostrado no tópico anterior, colar o código e executar o programa
+  (Nesse não é necessário inserir entradas).</i>
+ </li>
+   
+ <li> 
+   <b> Questao 6 </b> -  Basta copiar o código do arquivo "question_6.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
   (Nesse não é necessário inserir entradas).
  </li>
    
  <li> 
-     Questao 6 -  Basta copiar o código do arquivo "question_6.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
-  (Nesse não é necessário inserir entradas).
- </li>
-   
- <li> 
-     Questao 8 - Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
+   <b> Questao 8 </b> - Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
   (Nesse não é necessário inserir entradas).
  </li>
   
  <li> 
-    Questao 10
+    <b> Questao 10 </b>
  </li>
    
  <li> 
-     Questao 11
+    <b> Questao 11 </b>
  </li>
 
 </ul>
