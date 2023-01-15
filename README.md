@@ -39,7 +39,7 @@ Todas os programas feitos nesse repositório podem ser executados nos simuladore
  </li>
    
  <li>  
-    <b> Questao 11 </b> <i> Basta copiar o código do arquivo "question_11.cpp" e acessar o Editor Online C, mostrado no tópico anterior, colar o código, executar e inserir as entradas desejadas. </i>
+    <b> Questao 11 </b> <i> Basta copiar o código do arquivo "question_11.cpp" e acessar o Editor Online C++, mostrado no tópico anterior, colar o código, executar e inserir as entradas desejadas. </i>
  </li>
 
 </ul>
