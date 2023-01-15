@@ -27,21 +27,23 @@ Todas os programas feitos nesse repositório podem ser executados nos simuladore
  </li>
    
  <li> 
-   <b> Questao 6 </b> -  Basta copiar o código do arquivo "question_6.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
-  (Nesse não é necessário inserir entradas).
+   <b> Questao 6 </b> - <i> Basta copiar o código do arquivo "question_6.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
+  (Nesse não é necessário inserir entradas). </i>
  </li>
    
  <li> 
-   <b> Questao 8 </b> - Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
-  (Nesse não é necessário inserir entradas).
+   <b> Questao 8 </b> - <i> Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
+  (Nesse não é necessário inserir entradas). </i>
  </li>
   
  <li> 
-    <b> Questao 10 </b>
+    <b> Questao 10 </b> <i> Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
+  (Nesse não é necessário inserir entradas). </i>
  </li>
    
- <li> 
-    <b> Questao 11 </b>
+ <li>  
+    <b> Questao 11 </b> <i> Basta copiar o código do arquivo "question_8.sql" e acessar o Editor Online SQLITE, mostrado no tópico anterior, colar o código e executar o programa
+  (Nesse não é necessário inserir entradas). </i>
  </li>
 
 </ul>
@@ -49,5 +51,3 @@ Todas os programas feitos nesse repositório podem ser executados nos simuladore
 ## 📄 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
