@@ -14,7 +14,7 @@ All programs made in this repository can be executed in the simulators presented
 
 <ul> 
  <li> 
-     <b>Question 3</b> - <i>Just copy the code from the <a href= https://github.com/IsaacMartins12/test_radek_systems/blob/main/question_3.c > question_3.c </a> file and access the online C compiler, shown in the previous topic, paste the code, execute and insert the desired entries.</i >
+     <b>Question 3</b> - <i>Just copy the code from the <a href= https://github.com/IsaacMartins12/test_radek_systems/blob/main/question_3.c > question_3.c </a> file and access the online C compiler, shown in the previous topic, paste the code and execute (There is no need to enter entries here).</i >
  </li>
    
  <li> 
